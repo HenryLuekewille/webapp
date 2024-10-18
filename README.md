@@ -24,3 +24,5 @@ Goals:
 To develop a functional, user-friendly event planning tool with core features such as event creation, guest management, and RSVP tracking.
 Aim for a polished, professional user interface with responsive design.
 
+Lets go
+
